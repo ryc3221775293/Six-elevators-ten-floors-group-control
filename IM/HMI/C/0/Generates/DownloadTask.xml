@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="14.0.1.0"
+    CreationTime="2018-07-21 12:07:54 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="西门子初赛.SpecialRain[SIMATIC PC station - WinCC RT Advanced]"
+    RtProjectFolderName="西门子初赛.SpecialRain[SIMATIC PC station - WinCC RT Advanced]"
+    DeviceType="PC-OP"
+    DisplayOrientation="0"
+    RTReleaseNo="14.0.1.0"
+    ImageReleaseNo="14.0.1.0"
+    RTCV="14.0.1.0"
+    PRCV="14.0.1.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.tfz</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+  <License
+    type="WCRT031300">WinCC RT Advanced (2048)</License>
+</DownloadTask>
